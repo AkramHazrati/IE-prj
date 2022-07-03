@@ -1,0 +1,34 @@
+.products-c{
+    width: 100%;
+    height: 90%;
+    text-align: center;
+  }
+.card{
+
+    width: 21em;
+    height: 13em;
+    border: 1px;
+    border-style: solid;
+    border-radius: 27px;
+    text-align: center;
+    padding: 1em;
+    margin-top: 6%;
+}
+.cards{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+
+.items_image{
+width: 97%;
+margin-top: 3%;
+border-radius: 11px;
+height: 10em;
+}
+.icon{
+width: 9%;
+margin-left: 2%;
+margin-right: 73%;
+margin-top: -4px;
+}
